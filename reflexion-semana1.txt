@@ -1,0 +1,8 @@
+La relación entre participación ciudadana, información responsable y Git se basa en la transparencia.
+Ser un ciudadano crítico exige verificar los datos para poder combatir la desinformación activamente.
+Git aplica esta misma responsabilidad al registrar quién, cuándo y por qué cambia un proyecto.
+Esta filosofía técnica es el motor que facilita la juntanza y el trabajo colectivo horizontal.
+Permite que múltiples voces colaboren en un objetivo común sin sobrescribir el esfuerzo ajeno.
+Fomenta la democratización del conocimiento al dejar que las herramientas se adapten a la comunidad.
+En esencia, Git traduce los principios de una convivencia ciudadana sana a flujos estructurados.
+Demuestra que toda iniciativa social exitosa requiere respeto, verdad y cooperación por el bien común.
